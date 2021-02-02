@@ -4,12 +4,13 @@ function Projects(){
   return(
     <div>
       <div class="header" id="myHeader">
-      <h2>Projetos Front-End</h2>
+      <h2>Front-End</h2>
       </div>
 
       <div className='container'>
 
       <div className='card'>
+      <h3>project-trivia-react-redux</h3>
       <p className='card-text'>Foi desenvolvido um jogo de perguntas e respostas baseado
          no jogo Trivia (tipo um show do milhão americano) utilizando
          React e Redux, na qual suas funcionalidades foram desenvolvidas
@@ -21,7 +22,7 @@ function Projects(){
       rel="noreferrer"
       className='mybutton' > Site do Projeto</a>
 
-      <a href ='https://project-trivia.netlify.app/ ' 
+      <a href ='https://github.com/ericvini/project-trivia-react-redux-trybe' 
       target="_blank"
       rel="noreferrer"
       className='mybutton' >Repositório GitHub</a>
@@ -30,6 +31,7 @@ function Projects(){
       </div>
     
       <div className='card'>
+      <h3>project-react-testing-library</h3>
       <p className='card-text'>Projeto que simula uma pokédex. Testes feito com a React Testing Library.</p>
       
       <a href ='https://pokedex-react-rtl.netlify.app/' 
@@ -37,7 +39,7 @@ function Projects(){
       target="_blank"
       rel="noreferrer"> Site do Projeto</a>
 
-      <a href ='https://pokedex-react-rtl.netlify.app/' 
+      <a href ='https://github.com/ericvini/project-react-testing-library-trybe' 
       className='mybutton'
       target="_blank"
       rel="noreferrer">Repositório GitHub</a>
@@ -45,7 +47,9 @@ function Projects(){
       
       </div>
       <div className='card'>
+      <h3>project-frontend-online-store</h3>
       <p className='card-text'>
+     
       Nesse projeto foi criado uma versão simplificada, 
       sem persistência no banco de dados, de uma loja online, 
       as suas funcionalidades foram desenvolvidas em grupo de 
@@ -60,7 +64,7 @@ function Projects(){
       target="_blank"
       rel="noreferrer"> Site do Projeto</a>
 
-      <a href ='https://frontend-online-store.netlify.app/' 
+      <a href ='https://github.com/ericvini/project-frontend-online-store-trybe' 
       className='mybutton'
       target="_blank"
       rel="noreferrer">Repositório GitHub</a>
@@ -68,6 +72,7 @@ function Projects(){
       
       </div>
       <div className='card'>
+      <h3>Front-End</h3>
       <p className='card-text'>Projeto que simula uma pokédex. Testes feito com a React Testing Library.</p>
      
       <a href ='https://pokedex-react-rtl.netlify.app/' 
