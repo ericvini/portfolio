@@ -91,6 +91,25 @@ function Projects(){
       rel="noreferrer">Repositório GitHub</a>      
       </div>
       <div className='card'>
+      <h3>Project-Movie-Card-Library-Crud</h3>
+      <p className='card-text'> Aplicação que permite
+       a quem usá-la Adicionar um novo filme à lista,
+       Listar todos os filmes cadastrados, com uma página
+        de informações resumidas sobre cada filme e uma página 
+        de informações detalhadas de um filme selecionado, Editar 
+        um filme da lista, E apagar um filme da lista.</p>
+     
+      <a href ='https://movie-card-crud.netlify.app' 
+      className='mybutton'
+      target="_blank"
+      rel="noreferrer"> Site do Projeto</a> 
+
+       <a href ='https://github.com/ericvini/project-movie-card-library-crud-trybe' 
+      className='mybutton'
+      target="_blank"
+      rel="noreferrer">Repositório GitHub</a>      
+      </div>
+      <div className='card'>
       <h3>Game-Arcade</h3>
       <p className='card-text'> Jogo feito com JavaScript, HTML e CSS.
       O jogo consiste em levar o personagem ate o rio sem colidir com os inimigos.</p>
