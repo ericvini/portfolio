@@ -72,15 +72,35 @@ function Projects(){
       
       </div>
       <div className='card'>
-      <h3>Front-End</h3>
-      <p className='card-text'>Projeto que simula uma pokédex. Testes feito com a React Testing Library.</p>
+      <h3>Reddit-React-Redux</h3>
+      <p className='card-text'> Aplicação que permite
+       a quem usá-la ver posts referentes a 2 subreddits :
+        reactjs frontend.No momento que selecionar o subreddit , 
+        uma requisição precisa ser feita no reddit para buscar 
+        os posts referentes ao subreddit escolhido. O estado da aplicação
+        está sendo gerenciado com Redux.</p>
      
-      <a href ='https://pokedex-react-rtl.netlify.app/' 
+      <a href ='https://reddit-react-redux.netlify.app' 
       className='mybutton'
       target="_blank"
       rel="noreferrer"> Site do Projeto</a> 
 
-       <a href ='https://pokedex-react-rtl.netlify.app/' 
+       <a href ='https://github.com/ericvini/exercise-reddit-react-redux-trybe' 
+      className='mybutton'
+      target="_blank"
+      rel="noreferrer">Repositório GitHub</a>      
+      </div>
+      <div className='card'>
+      <h3>Game-Arcade</h3>
+      <p className='card-text'> Jogo feito com JavaScript, HTML e CSS.
+      O jogo consiste em levar o personagem ate o rio sem colidir com os inimigos.</p>
+     
+      <a href ='https://game-acarde.netlify.app' 
+      className='mybutton'
+      target="_blank"
+      rel="noreferrer"> Site do Projeto</a> 
+
+       <a href ='https://github.com/ericvini/exercise-reddit-react-redux-trybe' 
       className='mybutton'
       target="_blank"
       rel="noreferrer">Repositório GitHub</a>      
