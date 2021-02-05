@@ -100,7 +100,7 @@ function Projects(){
       target="_blank"
       rel="noreferrer"> Site do Projeto</a> 
 
-       <a href ='https://github.com/ericvini/exercise-reddit-react-redux-trybe' 
+       <a href ='https://github.com/ericvini/project-game-arcade-udacity' 
       className='mybutton'
       target="_blank"
       rel="noreferrer">Repositório GitHub</a>      
